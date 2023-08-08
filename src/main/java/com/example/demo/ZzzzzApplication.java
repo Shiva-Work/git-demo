@@ -9,6 +9,7 @@ public class ZzzzzApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ZzzzzApplication.class, args);
 		System.out.println("enterd into git");
+		System.out.println("Modified into git");
 	}
 
 }
